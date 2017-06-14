@@ -18,7 +18,7 @@ A Simple Uitest Using Appium with Eclipse and Junit to test hibrid app with Ioni
 
 - Execute the Test in " AppiumiOSTest.java" and wait for the app to Launch.
 
-. UiTest Should be executed after following this Steps.
+- UiTest Should be executed after following this Steps.
 
 
 
